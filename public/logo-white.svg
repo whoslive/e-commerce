@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 40" width="350" height="40">
+  <!-- Abstract shapes -->
+  <rect x="0" y="10" width="20" height="20" fill="white" />
+  <circle cx="30" cy="20" r="10" fill="white" />
+  <rect x="50" y="15" width="10" height="10" fill="white" />
+  
+  <!-- Text -->
+  <text x="60" y="30" font-family="Segoe UI, sans-serif" font-size="35" font-weight="bold" fill="white">TECH SOLUTIONS</text>
+</svg>
